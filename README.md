@@ -1,15 +1,5 @@
 # pollingAPI
 
-### how to run file
-
-* download zip file
-* extract zip file in your sytem
-* open file in VS code
-* open terminal in Vs code
-* run command npm i
-* run command nodemon index.js
-
-
 ## How to call API
 
 #### open PostMan Application and try running these commands
